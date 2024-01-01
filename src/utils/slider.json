@@ -1,0 +1,20 @@
+[
+	{
+	"image": "PickMeals",
+     "title": "Pick Meals",
+     "text": "Lorem ipsum dolor sit amit consectetur. maexenas eric et",
+     },
+
+     {
+       "image": "ChooseMeals",
+       "title":"choose How Often",
+       "text": "Lorem ipsum dolor sit amit consectetur.maexenas eric et",
+     },
+
+     {
+     	"image": "DeliveryMeals",
+     	"title": "Fast Deliveries",
+     	"text": "Lorem ipsum dolor sit amit consectetur.maexenas eric et",
+     },
+
+	];
